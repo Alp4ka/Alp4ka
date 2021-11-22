@@ -23,14 +23,14 @@ Corp. Mail: rrgorkovets@edu.hse.ru
 [![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/Alp4ka)
 
 
-#### Education:
+## Education:
 - [State budgetary educational institution of the city of Moscow "Lyceum No. 1575"](https://lyc1575.mskobr.ru)
 - [National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"](https://www.hse.ru/en/ba/se)
 - [Moscow School of Programming](https://informatics.ru/)
 - Moscow Summer Programming Camp
 
 
-#### Programming languages & Skills👨‍💻:
+## Programming languages & Skills👨‍💻:
 
 Python (Django, Numpy, Pygame)
 Matlab
@@ -43,6 +43,6 @@ Java
 Checkmarx (SAST)
 Pentaho
 
-#### Olympiads:
+## Olympiads:
 - 1st Place on Moscow Pre-professional Olympiad (Informatics)
 - 2nd Place on Moscow World Skills Olympiad (Space systems engineering)
