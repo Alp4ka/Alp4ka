@@ -33,14 +33,23 @@ Corp. Mail: rrgorkovets@edu.hse.ru
 ## Programming languages & Skills👨‍💻:
 
 Python (Django, Numpy, Pygame)
+
 Matlab
+
 C# (WPF, Winforms)
+
 C++
+
 C
+
 OADB
+
 Solidity
+
 Java
+
 Checkmarx (SAST)
+
 Pentaho
 
 ## Olympiads:
