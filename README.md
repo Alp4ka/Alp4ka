@@ -1,11 +1,11 @@
 ## Profile info🦸🏻‍♂️:
 Name: Gorkovets Roman
 
-Experience: Developer in United Card Services
+Experience: Golang Middle Developer in Black Wall Group
 
 Education: Software Engineer (HSE FCS BSE Student)
 
-Age: 19 y.o.
+Age: 20 y.o.
 
 Country: Russian Federation
 
@@ -53,6 +53,8 @@ Java
 Checkmarx (SAST)
 
 Pentaho
+
+Golang
 
 ## Olympiads🏆:
 - 1st Place on Moscow Pre-professional Olympiad (Informatics)
