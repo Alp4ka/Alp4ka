@@ -1,11 +1,11 @@
 ## Profile info🦸🏻‍♂️:
 Name: Gorkovets Roman
 
-Experience: Golang Middle Developer in Black Wall Group
+Woek: Leading Developer in Cloud.ru New Billing Team
 
 Education: Software Engineer (HSE FCS BSE Student)
 
-Age: 20 y.o.
+Age: 21 y.o.
 
 Country: Russian Federation
 
@@ -30,31 +30,6 @@ Corp. Mail: rrgorkovets@edu.hse.ru
 - [National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"](https://www.hse.ru/en/ba/se)
 - [Moscow School of Programming](https://informatics.ru/)
 - Moscow Summer Programming Camp
-
-
-## Programming languages & Skills👨‍💻:
-
-Python (Django, Numpy, Pygame)
-
-Matlab
-
-C# (WPF, Winforms)
-
-C++
-
-C
-
-OADB
-
-Solidity
-
-Java
-
-Checkmarx (SAST)
-
-Pentaho
-
-Golang
 
 ## Olympiads🏆:
 - 1st Place on Moscow Pre-professional Olympiad (Informatics)
