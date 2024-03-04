@@ -1,7 +1,7 @@
 ## Profile info🦸🏻‍♂️:
 Name: Gorkovets Roman
 
-Woek: Leading Developer in Cloud.ru New Billing Team
+Work: Leading Developer in Cloud.ru New Billing Team
 
 Education: Software Engineer (HSE FCS BSE Student)
 
