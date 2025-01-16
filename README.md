@@ -5,7 +5,7 @@ Work: Leading Developer in [cloud.ru](https://cloud.ru) New Billing Team
 
 Education: Software Engineer (HSE FCS BSE Student)
 
-Age: 21 y.o.
+Age: 22 y.o.
 
 Country: Russian Federation
 
